@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>贾亚明</title>
+    <description>贾亚明的个人博客主页</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>翻译点滴(二)</title>
+        <description>
+          在翻译的点滴中思考，开阔自已的视野 - 
+          “Inexperience is an asset. Embrace it.” – Wendy Kopp 没有经验是财富，我们应该拥抱它。 拥有经验是危险的负担，我们应该轻视它。 经验只是增加了我们某一方面的认识，但如果我们局限于现有的经验，只会束缚我们的手脚，导致我们不敢放手大胆去冒险进取追求。 初生牛犊不怕虎，后生可畏，说的应该是同一个道理。 “Too many of us are not living our dreams because we are living our fears.” – Les Brown 很多人没有过上他们梦想的生活，是因为他们每天忧虑的生活着，忧虑生活中的柴米油盐、吃穿住行等等。 我们害怕改变，担心改变后的一切未知的事物，担忧我们尚存的力量是否还能保障我们日常的生活。 如果我们为每天的生活担忧，那么我们将不会过上自己想要的生活！ 受苦的人，没有权利。 The two most important days in your life are the day you are born and...
+        </description>
+        <pubDate>Fri, 20 Sep 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2019/09/20/translate-english2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/20/translate-english2.html</guid>
+      </item>
+    
+      <item>
+        <title>翻译点滴(一)</title>
+        <description>
+          在翻译的点滴中挑战自已的观念与想法，保持向上与进步 - 
+          “Common sense is the collection of prejudices acquired by age 18.” – Albert Einstein 常识就是你收集起来的十八岁之前获得的偏见。这就是说：十八岁之前收集常识，以为自己无所不知，十八岁之后再一条条推翻之前收集的常识，才明白自己一无所知。每个人的成长都要经历：不知道自己不知道——&amp;gt;知道自己不知道——&amp;gt;知道自己知道——&amp;gt;不知道自己知道。 “The first problem for all of us, men and women, is not to learn, but to unlearn.” – Gloria Steinem 对于我们每个人来说，首要的问题，不是记住知识，而是忘掉知识。在不受之前的知识的束缚下，重新学习新的知识，推翻旧的知识，开阔眼界，方能不断进步。 “A mind is like a parachute. It doesn’t work if it is not open.”...
+        </description>
+        <pubDate>Sun, 08 Sep 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2019/09/08/translate-english.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/08/translate-english.html</guid>
+      </item>
+    
+  </channel>
+</rss>

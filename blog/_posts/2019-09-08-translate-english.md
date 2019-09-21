@@ -1,8 +1,8 @@
 ---
-title: "翻译点滴"
+title: "翻译点滴(一)"
 subtitle: "在翻译的点滴中挑战自已的观念与想法，保持向上与进步"
 layout: post
-tags: [translate  翻译]
+tags: [翻译]
 ---
 
 “Common sense is the collection of prejudices acquired by age 18.” – Albert Einstein

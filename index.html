@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎您！
+title: 天行健,君子以自强不息。地势坤,君子以厚德载物。
 subtitle: 贾亚明的个人博客
 ---
 
@@ -18,12 +18,12 @@ subtitle: 贾亚明的个人博客
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+	  <h6 class="post-title">{{ post.title }}</h6>
 	
 	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
+	  <h5 class="post-subtitle">
 	    {{ post.subtitle }}
-	  </h3>
+	  </h5>
 	  {% endif %}  
     </a>
 
@@ -32,7 +32,7 @@ subtitle: 贾亚明的个人博客
     </p>
   
     <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html}}
+      {{ post.content | truncatewords: 20 | strip_html}}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
   

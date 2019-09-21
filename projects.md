@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 项目
-subtitle: 博客, 开源项目, 研究方向.
+subtitle: 开源项目, 研究方向.
 ---
 
 <!--
@@ -32,5 +32,5 @@ subtitle: 博客, 开源项目, 研究方向.
 [trafi]: http://www.avaus.fi/business/using-h2o-big-data-platform-to-analyze-co2-emissions-of-cars
 [documentation]: https://github.com/avaus/opendata/blob/master/trafi.md
 -->
-## 博客
+## 开源项目
 内容待完善！

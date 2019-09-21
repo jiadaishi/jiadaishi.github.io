@@ -110,3 +110,4 @@ prose:
 
 # plugins    
 plugins: [jekyll-paginate]
+exclude: [node_modules]
