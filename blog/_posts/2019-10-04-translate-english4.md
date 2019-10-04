@@ -1,5 +1,5 @@
 ---
-title: "翻译点滴(三))"
+title: "翻译点滴(三)"
 subtitle: "在翻译的点滴中成长，懂得道理"
 layout: post
 tags: [翻译]
