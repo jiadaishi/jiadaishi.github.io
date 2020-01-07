@@ -3,8 +3,19 @@
   <channel>
     <title>贾亚明</title>
     <description>贾亚明的个人博客主页</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://jiadaishi.github.io</link>
+    <atom:link href="http://jiadaishi.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>论事实和思维</title>
+        <description>
+          翻译 - 
+          On Facts and Thinking 论事实与思维 There are two types of facts, and two types of thinking。 They can be combined into four techniques for making sense of the world。 事实和思维都有两个维度。 它们有四种组合方式，可以用来解释这个世界。 Facts 事实 A first order fact is one that is immediately relevant to a narrative or subject。 It is...
+        </description>
+        <pubDate>Tue, 07 Jan 2020 00:00:00 +0800</pubDate>
+        <link>http://jiadaishi.github.io/blog/2020/01/07/facts-thinking.html</link>
+        <guid isPermaLink="true">http://jiadaishi.github.io/blog/2020/01/07/facts-thinking.html</guid>
+      </item>
     
       <item>
         <title>记录所思,所想,所感</title>
@@ -13,8 +24,8 @@
           轻重 看重大家看轻的，看轻大家看重的。做一个不一样的人。巴菲特曾经也有说，别人疯狂时我恐惧，别人恐惧时我疯狂，可能社会大部分的人是不理智的，王小波曾说知识分子最恐惧的年代就是不理智的年代。那是谁导致了这个年代的不理智？媒体需要付最大的责任！ 但理智是什么？理智有时候也许也是错的，不理智也许有时候是对的，为了保护自己，我们应该学会理解不理智。 猪 小时候我爹跟我说过，猪原本生活在山林里边，他很自由，后来贪图享受了，任凭别人把他们关在猪圈里，他以为他会很幸福，可结果却是任人宰割！ 女人 女人是平凡的。 月朗星稀，是女人用晨炊点燃新的一天。 牵牵连连，是女人将零零碎碎补缝成一个美丽。 女人是不平凡的。 风雨交加，是女人为我们打开家门。 坎坎坷坷，是女人给我们关怀和温馨。 然而，女人又是伟大的， 人类常把母亲比作美丽和博大的化身， 人类在生育女人的同时，女人也生育了整个人类。 世界少不了女人， 如少了女人， 这个世界将失去了百分之五十的真， 百分之七十的善， 百分之百的美。 没有女人也就没有了人类。 ——孙中山 翻译点滴 如果你的目标就是像普通大众一样，那么你来到这个世界的意义是什么？ 但有的时候能像普通大众一样平平淡淡的生活，也很难得。生易，活不易，生活不易，且行且珍惜！ 智慧源于惊奇。 失败就是进步，是前进的道路上的正常组成部分。更多的失败等于更多的成功，你连失败都没有经历过，怎么可能经历成功。 只有度过最困难的关口，才能抵达生命中最美丽的角落，才敢直面生命中的任何事情。 但是好像生活就是那么平淡，时间会抹掉一切的困难，而我依然是那么平庸。 制定一个你不可能实现的伟大的目标，直到你成为能实现这个目标的人中的一员。 美国 一个教授介绍的他访问美国的感受。他说，全世界各种各样的人都去美国，有上层的富豪，也有底层的难民。美国是世界最大的移民国家，三教九流、各种文化背景的人你都能找到。美国人很杂，奇怪的是，它不乱。按理说，那么多形形色色的人在一起，蛇鼠一窝，各自都有自己的小算盘，彼此冲突，应该乱成一团才对啊。但是，现实却是互相仇恨的民族，在那里都能共同生活，和平相处。美国社会不仅不乱，而且高度有秩序，社会运行井井有条，这是为什么？教授认为，一个原因是美国的规则很简单，大家容易理解，社会运行的理解成本很低。美国社会的规则，一句话就能说完：政治上投票，谁的票多，谁掌权；经济上自由竞争，谁的产品好，谁赚钱。 基本规则就是这句话，很容易理解和执行，可操作性高。当然，次要规则很多，美国的法律体系是世界最复杂的，但都是为了保障主要原则的执行。全世界的人来到美国，只要理解了基本规则，就能理解美国社会的运作。大家都按照基本规则行事，协调和沟通成本就低了，社会的运作就顺畅了，政府的管理成本就低了。 推广开来，个人和公司都可以借鉴这一点。人生的原则、公司的规则，不妨简单一点，这样可能活得更容易。 穷富 一边儿是穷人家的孩子，一文钱难倒英雄汉，为生存而奔波。一边是富人家的孩子二十亿的败家…… 社会发展 科技发展进步的同时，有些人难免会成为牺牲品，是怨他们自己呢？还是怨这个世界？ 生活方式的烦恼 考体制内的工作，还是继续在私企打工？为什么家里人老是喜欢选择第一种，都成年人了，为什么不能选择自己喜欢的生活方式，我知道那也是为我好，但总让我徒生烦恼. 烦恼 家庭中的一些事情，不能想，一想就烦恼，工作中的一些事情，也不能想，一想也烦恼。只能这样每天浑浑噩噩，好像自己在进步在成长，其实什么也没有得到…… 灵感 灵感是容易失去的，昨晚上的灵感没有及时记录起来，到今天就忘记了，可惜了…… 有信仰的人，不会在乎别人的看法，做事情会用自己的信仰去衡量（西藏五体投地的信徒感言） 常常听说精神生活，那什么是精神生活呢？？ 标准 how much autonomy...
         </description>
         <pubDate>Mon, 06 Jan 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2020/01/06/summary.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020/01/06/summary.html</guid>
+        <link>http://jiadaishi.github.io/blog/2020/01/06/summary.html</link>
+        <guid isPermaLink="true">http://jiadaishi.github.io/blog/2020/01/06/summary.html</guid>
       </item>
     
       <item>
@@ -24,8 +35,8 @@
           You can’t force somebody into a cage. Maybe you can dress it up, and hope they don’t notice. Maybe you can try to convince them it’s not so bad. But in the end, people are good at seeing (and avoiding) traps.——neobub 我们不能用强制性的手段把猪关进猪圈，也许我们可以把猪圈精心打扮一番，希望猪并没有意识到它是猪圈。也许我们也可以在猪圈里放进各种好吃好喝好玩的东西，向猪表明在猪圈里其实并没有那么糟糕。但是最终猪是会发现猪圈和跳出猪圈的，圈永远是圈啊。 “Success means doing the best we can with...
         </description>
         <pubDate>Fri, 04 Oct 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2019/10/04/translate-english4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/10/04/translate-english4.html</guid>
+        <link>http://jiadaishi.github.io/blog/2019/10/04/translate-english4.html</link>
+        <guid isPermaLink="true">http://jiadaishi.github.io/blog/2019/10/04/translate-english4.html</guid>
       </item>
     
       <item>
@@ -35,8 +46,8 @@
           “Inexperience is an asset. Embrace it.” – Wendy Kopp 没有经验是财富，我们应该拥抱它。 拥有经验是危险的负担，我们应该轻视它。 经验只是增加了我们某一方面的认识，但如果我们局限于现有的经验，只会束缚我们的手脚，导致我们不敢放手大胆去冒险进取追求。 初生牛犊不怕虎，后生可畏，说的应该是同一个道理。 “Too many of us are not living our dreams because we are living our fears.” – Les Brown 很多人没有过上他们梦想的生活，是因为他们每天忧虑的生活着，忧虑生活中的柴米油盐、吃穿住行等等。 我们害怕改变，担心改变后的一切未知的事物，担忧我们尚存的力量是否还能保障我们日常的生活。 如果我们为每天的生活担忧，那么我们将不会过上自己想要的生活！ 受苦的人，没有权利。 The two most important days in your life are the day you are born and...
         </description>
         <pubDate>Fri, 20 Sep 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2019/09/20/translate-english2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/20/translate-english2.html</guid>
+        <link>http://jiadaishi.github.io/blog/2019/09/20/translate-english2.html</link>
+        <guid isPermaLink="true">http://jiadaishi.github.io/blog/2019/09/20/translate-english2.html</guid>
       </item>
     
       <item>
@@ -46,8 +57,8 @@
           “Common sense is the collection of prejudices acquired by age 18.” – Albert Einstein 常识就是你收集起来的十八岁之前获得的偏见。这就是说：十八岁之前收集常识，以为自己无所不知，十八岁之后再一条条推翻之前收集的常识，才明白自己一无所知。每个人的成长都要经历：不知道自己不知道——&amp;gt;知道自己不知道——&amp;gt;知道自己知道——&amp;gt;不知道自己知道。 “The first problem for all of us, men and women, is not to learn, but to unlearn.” – Gloria Steinem 对于我们每个人来说，首要的问题，不是记住知识，而是忘掉知识。在不受之前的知识的束缚下，重新学习新的知识，推翻旧的知识，开阔眼界，方能不断进步。 “A mind is like a parachute. It doesn’t work if it is not open.”...
         </description>
         <pubDate>Sun, 08 Sep 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/blog/2019/09/08/translate-english.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2019/09/08/translate-english.html</guid>
+        <link>http://jiadaishi.github.io/blog/2019/09/08/translate-english.html</link>
+        <guid isPermaLink="true">http://jiadaishi.github.io/blog/2019/09/08/translate-english.html</guid>
       </item>
     
   </channel>
