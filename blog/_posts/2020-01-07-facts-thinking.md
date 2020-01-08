@@ -6,7 +6,12 @@ tags: [摘录]
 ---
 
 
-### 外文原文出处：<https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI>  Anonymous (patrick) ╱ 10-25-2019 
+### 外文原文出处：Anonymous (patrick)/10-25-2019 
+
+#### <https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI>  
+
+
+
 #### On Facts and Thinking 论事实与思维
 
 There are two types of facts, and two types of thinking。 They can be combined into four techniques for making sense of the world。
