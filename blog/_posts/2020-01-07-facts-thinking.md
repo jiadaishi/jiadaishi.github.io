@@ -10,7 +10,6 @@ tags: [摘录]
 
 #### <https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI>  
 ---
-#### 
 
 #### On Facts and Thinking 论事实与思维
 
@@ -47,10 +46,15 @@ There are four ways to combine facts and thinking。 They are represented in the
 
 事实和思维有四种组合方式。通过下面的表格展现。
 
+---
 |    --  | 初级思维 | 高级思维 |   
-|------|------|------|
+---
+---
 | 初级事实 | 实用性  | 智慧   |   
+---
+---
 | 高级事实 | 操纵   | 阴谋   |   
+---
 
 
 
