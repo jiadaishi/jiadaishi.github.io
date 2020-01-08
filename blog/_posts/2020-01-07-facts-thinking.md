@@ -6,9 +6,7 @@ tags: [摘录]
 ---
 
 ---
-#### 外文原文出处：Anonymous (patrick)/10-25-2019 
-
-#### <https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI>  
+#### 原文出处：<https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI>  
 ---
 
 #### On Facts and Thinking 论事实与思维
@@ -46,22 +44,42 @@ There are four ways to combine facts and thinking。 They are represented in the
 
 事实和思维有四种组合方式。通过下面的表格展现。
 
----
-|    --  | 初级思维 | 高级思维 |   
----
----
-| 初级事实 | 实用性  | 智慧   |   
----
----
-| 高级事实 | 操纵   | 阴谋   |   
----
 
+<table>
+<tr>
+<td>--</td>
+<td> First Order Thinking  </td>
+<td>Higher Order Thinking</td>
+</tr>
+<tr>
+<td> First Order Facts </td>
+<td>Utility</td>
+<td>Wisdom</td>
+</tr>
+<tr>
+<td>Higher Order Facts</td>
+<td>Manipulation</td>
+<td> Conspiracy Theory</td>
+</tr>
+</table>
 
-
-| --- |  | First Order Thinking     |  Higher Order Thinking  |
-| First Order Facts  |   |  Utility  | Wisdom  |
-| Higher Order Facts  |    |   Manipulation    |   Conspiracy Theory  |
-
+<table>
+<tr>
+<td>--</td>
+<td>初级思维</td>
+<td>高级思维</td>
+</tr>
+<tr>
+<td>初级事实</td>
+<td>实用性</td>
+<td>智慧</td>
+</tr>
+<tr>
+<td>高级事实</td>
+<td>操纵</td>
+<td>阴谋</td>
+</tr>
+</table>
 
  First order thinking applied to first order facts is useful。 This combination makes survival possible。 A wolf does not chase the fastest deer (fact) because it usually escapes (thinking)。 Just as the deer know to run from the wolf。 Humans use first order thinking and facts to navigate simple systems in daily life。 Traffic lights, bank statements, hunger。 
 

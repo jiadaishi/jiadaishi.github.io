@@ -4,7 +4,7 @@
  <title>James's blog on Open Data Science</title>
  <link href="http://ouzor.github.io/blog/atom.xml" rel="self"/>
  <link href="http://ouzor.github.io/"/>
- <updated>2020-01-08T01:19:38+08:00</updated>
+ <updated>2020-01-08T22:04:53+08:00</updated>
  <id>http://ouzor.github.io/blog</id>
  <author>
    <name>James Jia</name>
@@ -17,7 +17,11 @@
    <link href="http://ouzor.github.io/blog/2020/01/07/facts-thinking.html"/>
    <updated>2020-01-07T00:00:00+08:00</updated>
    <id>id:/blog/2020/01/07/facts-thinking</id>
-   <content type="html">&lt;h4 id=&quot;on-facts-and-thinking-论事实与思维&quot;&gt;On Facts and Thinking 论事实与思维&lt;/h4&gt;
+   <content type="html">&lt;hr /&gt;
+&lt;h4 id=&quot;原文出处httpsreadingsupplypatrickon-facts-and-thinking-dzbjgi&quot;&gt;原文出处：&lt;a href=&quot;https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI&quot;&gt;https://reading.supply/@patrick/on-facts-and-thinking-dzbJgI&lt;/a&gt;&lt;/h4&gt;
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;on-facts-and-thinking-论事实与思维&quot;&gt;On Facts and Thinking 论事实与思维&lt;/h4&gt;
 
 &lt;p&gt;There are two types of facts, and two types of thinking。 They can be combined into four techniques for making sense of the world。&lt;/p&gt;
 
@@ -53,48 +57,39 @@
 &lt;p&gt;事实和思维有四种组合方式。通过下面的表格展现。&lt;/p&gt;
 
 &lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;–&lt;/th&gt;
-      &lt;th&gt;初级思维&lt;/th&gt;
-      &lt;th&gt;高级思维&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初级事实&lt;/td&gt;
-      &lt;td&gt;实用性&lt;/td&gt;
-      &lt;td&gt;智慧&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;高级事实&lt;/td&gt;
-      &lt;td&gt;操纵&lt;/td&gt;
-      &lt;td&gt;阴谋&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;--&lt;/td&gt;
+&lt;td&gt; First Order Thinking  &lt;/td&gt;
+&lt;td&gt;Higher Order Thinking&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; First Order Facts &lt;/td&gt;
+&lt;td&gt;Utility&lt;/td&gt;
+&lt;td&gt;Wisdom&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Higher Order Facts&lt;/td&gt;
+&lt;td&gt;Manipulation&lt;/td&gt;
+&lt;td&gt; Conspiracy Theory&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;—&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;First Order Thinking&lt;/td&gt;
-      &lt;td&gt;Higher Order Thinking&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;First Order Facts&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Utility&lt;/td&gt;
-      &lt;td&gt;Wisdom&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Higher Order Facts&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;Manipulation&lt;/td&gt;
-      &lt;td&gt;Conspiracy Theory&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;--&lt;/td&gt;
+&lt;td&gt;初级思维&lt;/td&gt;
+&lt;td&gt;高级思维&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;初级事实&lt;/td&gt;
+&lt;td&gt;实用性&lt;/td&gt;
+&lt;td&gt;智慧&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高级事实&lt;/td&gt;
+&lt;td&gt;操纵&lt;/td&gt;
+&lt;td&gt;阴谋&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;First order thinking applied to first order facts is useful。 This combination makes survival possible。 A wolf does not chase the fastest deer (fact) because it usually escapes (thinking)。 Just as the deer know to run from the wolf。 Humans use first order thinking and facts to navigate simple systems in daily life。 Traffic lights, bank statements, hunger。&lt;/p&gt;
